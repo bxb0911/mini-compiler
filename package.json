@@ -1,0 +1,13 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tokenizer.js"
+  },
+  "devDependencies": {
+    "esprima": "^4.0.1",
+    "estraverse-fb": "^1.3.2"
+  }
+}
